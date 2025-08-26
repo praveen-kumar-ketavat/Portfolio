@@ -3,7 +3,7 @@
     "title": "CraveCorner",
     "imageSrc": "/assets/projects/cravecorner.png",
     "description": "A complete food delivery application with user-facing features for browsing and ordering, and an admin panel for managing food items, categories, and orders.",
-    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "GitHub"],
+    "skills": ["ReactJS", "NodeJS", "ExpressJS", "MongoDB", "GitHub"],
     "demo": "https://cravecorner-frontend.onrender.com",
     "source": "https://github.com/praveen-kumar-ketavat/CraveCorner"
   },
@@ -19,7 +19,7 @@
     "title": "Shopping Cart",
     "imageSrc": "/assets/projects/shoppingcart.png",
     "description": "A React-based shopping cart application using DummyJSON API that allows users to add, remove, and manage items efficiently. It features real-time updates, responsive design, seamless shopping experience.",
-    "skills": ["React.js", "JavaScript", "CSS", "API", "GitHub"],
+    "skills": ["ReactJS", "JavaScript", "CSS", "API", "GitHub"],
     "demo": "https://praveen-kumar-ketavat.github.io/shoppingCart",
     "source": "https://github.com/praveen-kumar-ketavat/shoppingCart"
   },
@@ -51,7 +51,7 @@
     "title": "Network Request Management",
     "imageSrc": "/assets/projects/servicenow.png",
     "description": "A ServiceNow application for automating network service requests with catalog items, approvals, workflows, and real-time notifications through emails.",
-    "skills": ["ServiceNow", "Catalog Items", "Workflows", "Forms", "GitHub"],
+    "skills": ["ServiceNow", "Catalog Items", "Flow Designer", "Forms"],
     "demo": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects",
     "source": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects"
   },
@@ -59,7 +59,7 @@
     "title": "Educational Organisation Management",
     "imageSrc": "/assets/projects/servicenow.png",
     "description": "A ServiceNow solution for managing student and teacher data, admissions, and academic processes with workflow automation and reporting.",
-    "skills": ["ServiceNow", "Forms", "Workflows", "Data Management", "GitHub"],
+    "skills": ["ServiceNow", "Client Scripts", "Forms", "Workflows", "Process Flow"],
     "demo": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects",
     "source": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects"
   }
