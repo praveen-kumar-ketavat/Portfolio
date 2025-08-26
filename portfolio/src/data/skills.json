@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "assets/skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "assets/skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "assets/skills/javascript.png"
+  },
+  {
+    "title": "ReactJS",
+    "imageSrc": "assets/skills/react.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "assets/skills/node.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "assets/skills/java.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "assets/skills/mongodb.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "assets/skills/mysql.png"
+  },
+  {
+    "title": "ServiceNow",
+    "imageSrc": "assets/skills/servicenow.png"
+  },
+  {
+    "title": "GitHub",
+    "imageSrc": "assets/skills/github.png"
+  },
+  {
+    "title": "Postman",
+    "imageSrc": "assets/skills/postman.png"
+  }
+]

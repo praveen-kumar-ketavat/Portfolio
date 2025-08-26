@@ -1,0 +1,254 @@
+[
+  {
+    "name": "ServiceNow Certified System Administrator (CSA)",
+    "issuer": "ServiceNow",
+    "date": "July 4, 2025",
+    "imageSrc": "assets/certs/servicenow_csa.png"
+  },
+  {
+    "name": "ServiceNow Certified Application Developer (CAD)",
+    "issuer": "ServiceNow",
+    "date": "July 28, 2025",
+    "imageSrc": "assets/certs/servicenow_cad.png"
+  },
+  {
+    "name": "ServiceNow Micro-Certification: Welcome to ServiceNow",
+    "issuer": "ServiceNow",
+    "date": "May 10, 2025",
+    "imageSrc": "assets/certs/servicenow_micro.png"
+  },
+  {
+    "name": "Java Full Stack Developer (Springboard Internship)",
+    "issuer": "Infosys Springboard",
+    "date": "May 14, 2025",
+    "imageSrc": "assets/certs/infosys_javafullstack.png"
+  },
+  {
+    "name": "Motioncut Internship",
+    "issuer": "Motioncut",
+    "date": "2024",
+    "imageSrc": "assets/certs/motioncut.png"
+  },
+   {
+    "name": "MongoDB Developer’s Toolkit",
+    "issuer": "GeeksforGeeks",
+    "date": "2024",
+    "imageSrc": "assets/certs/mongodb.png"
+  },
+  {
+    "name": "Postman API Fundamentals",
+    "issuer": "Postman",
+    "date": "November 17, 2024",
+    "imageSrc": "assets/certs/postman.png"
+  },
+  {
+    "name": "Cloud Internship",
+    "issuer": "AICTE Virtual Internship",
+    "date": "June 08, 2024",
+    "imageSrc": "assets/certs/cloud_internship.png"
+  },
+  {
+    "name": "Google AI-ML Virtual Internship",
+    "issuer": "Google",
+    "date": "June 18, 2025",
+    "imageSrc": "assets/certs/google_aiml.png"
+  },
+  {
+    "name": "Young Java professional",
+    "issuer": "Infosys",
+    "date": "February 25, 2024",
+    "imageSrc": "assets/certs/yjp_infosys.png"
+  },
+  {
+    "name": "Java Foundation Certification",
+    "issuer": "Infosys",
+    "date": "October 30, 2024",
+    "imageSrc": "assets/certs/java_foundation.png"
+  },
+  {
+    "name": "Programming using Java",
+    "issuer": "Infosys",
+    "date": "August 04, 2024",
+    "imageSrc": "assets/certs/java_infosys.png"
+  },
+  {
+    "name": "Java Programming",
+    "issuer": "Coursera",
+    "date": "October 26, 2023",
+    "imageSrc": "assets/certs/java_coursera.png"
+  },
+  {
+    "name": "Programming in Java",
+    "issuer": "NPTEL",
+    "date": "2024",
+    "imageSrc": "assets/certs/java_nptel.png"
+  },
+  {
+    "name": "Data Structures and Algorithms Using Java",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/dsa_infosys.png"
+  },
+
+  {
+    "name": "Programming in C",
+    "issuer": "Infosys",
+    "date": "October 25, 2023",
+    "imageSrc": "assets/certs/c_programming.png"
+  },
+  {
+    "name": "Problem Solving using Programming in C",
+    "issuer": "NPTEL",
+    "date": "2023",
+    "imageSrc": "assets/certs/c_nptel.png"
+  },
+  {
+    "name": "C++ Certificate",
+    "issuer": "edX",
+    "date": "April 08, 2024",
+    "imageSrc": "assets/certs/cpp_edx.png"
+  },
+  {
+    "name": "Python",
+    "issuer": "Infosys",
+    "date": "March 20, 2024",
+    "imageSrc": "assets/certs/python_infosys.png"
+  },
+  {
+    "name": "Python Essentials 1",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 02, 2025",
+    "imageSrc": "assets/certs/python_essentials1.png"
+  },
+  {
+    "name": "Python Essentials 2",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 03, 2025",
+    "imageSrc": "assets/certs/python_essentials2.png"
+  },
+
+  {
+    "name": "Agile Scrum in Practice",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/agile-scrum.png"
+  },
+  {
+    "name": "Software Engineering and Agile Software Development",
+    "issuer": "Infosys",
+    "date": "August 10,2024",
+    "imageSrc": "assets/certs/software-agile.png"
+  },
+  {
+    "name": "High Impact Presentations",
+    "issuer": "Infosys",
+    "date": "August 10,2024",
+    "imageSrc": "assets/certs/high-impact.png"
+  },
+  {
+    "name": "Time Management",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/time-management.png"
+  },
+  {
+    "name": "Email Writing Skills",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/email-writing.png"
+  },
+
+  {
+    "name": "CSS3",
+    "issuer": "Infosys",
+    "date": "March 06, 2025",
+    "imageSrc": "assets/certs/css3.png"
+  },
+  {
+    "name": "HTML5",
+    "issuer": "Infosys",
+    "date": "March 06, 2025",
+    "imageSrc": "assets/certs/html5.png"
+  },
+  {
+    "name": "JavaScript",
+    "issuer": "Infosys",
+    "date": "March 06, 2025",
+    "imageSrc": "assets/certs/javascript.png"
+  },
+  {
+    "name": "Front End Web Developer Certification",
+    "issuer": "Infosys",
+    "date": "March 06, 2025",
+    "imageSrc": "assets/certs/frontend-dev.png"
+  },
+
+  {
+    "name": "DBMS-1",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/dbms1.png"
+  },
+  {
+    "name": "DBMS-2",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/dbms2.png"
+  },
+  {
+    "name": "Introduction to NoSQL Databases",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "assets/certs/nosql.png"
+  },
+
+  {
+    "name": "Introduction to Internet of Things",
+    "issuer": "NPTEL",
+    "date": "2025",
+    "imageSrc": "assets/certs/iot_nptel.png"
+  },
+  {
+    "name": "Ethical Hacking",
+    "issuer": "NPTEL",
+    "date": "2024",
+    "imageSrc": "assets/certs/ethical_hacking.png"
+  },
+  {
+    "name": "CCNA: Enterprise Networking, Security, and Automation",
+    "issuer": "Cisco Networking Academy",
+    "date": "June 19, 2025",
+    "imageSrc": "assets/certs/cisco_enterprise.png"
+  },
+  {
+    "name": "CCNA: Switching, Routing, and Wireless Essentials",
+    "issuer": "Cisco Networking Academy",
+    "date": "June 18, 2025",
+    "imageSrc": "assets/certs/cisco_routing.png"
+  },
+  {
+    "name": "CCNA: Introduction to Networks",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 30, 2025",
+    "imageSrc": "assets/certs/cisco_networks.png"
+  },
+  {
+    "name": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 03, 2025",
+    "imageSrc": "assets/certs/cisco_cyber.png"
+  },
+
+  {
+    "name": "AWS Academy Cloud Architecting",
+    "issuer": "AWS Academy",
+    "date": "May 24, 2024",
+    "imageSrc": "assets/certs/aws_architect.png"
+  },
+  {
+    "name": "AWS Academy Cloud Foundations",
+    "issuer": "AWS Academy",
+    "date": "May 22, 2024",
+    "imageSrc": "assets/certs/aws_foundations.png"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Java Full Stack Developer Intern",
+    "organisation": "Infosys Springboard",
+    "startDate": "Feb, 2025",
+    "endDate": "Apr, 2025",
+    "experiences": [
+      "Built a Policy Management System as part of the internship project",
+      "Worked on the Customer Management Module, handling customer registration, policy details, and user management operations",
+      "Developed web and backend services using Java, Spring Boot, and Thymeleaf",
+      "Tested and validated REST APIs with Postman during the development process"
+    ],
+    "imageSrc": "assets/history/infosysspringboard.png"
+  },
+  {
+    "role": "Frontend Web Development Intern",
+    "organisation": "MotionCut",
+    "startDate": "Jun, 2024",
+    "endDate": "Jul, 2024",
+    "experiences": [
+      "Developed live frontend projects including a Pricing Landing Page, Registration Form, E-commerce Product Page, and a To-Do List application",
+      "Applied HTML, CSS, and JavaScript to create responsive and interactive web pages",
+      "Deployed projects seamlessly using GitHub Pages for live hosting"
+    ],
+    "imageSrc": "assets/history/motioncut.png"
+  }
+]
