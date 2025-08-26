@@ -1,7 +1,7 @@
 [
   {
     "title": "CraveCorner",
-    "imageSrc": "assets/projects/cravecorner.png",
+    "imageSrc": "/assets/projects/cravecorner.png",
     "description": "A complete food delivery application with user-facing features for browsing and ordering, and an admin panel for managing food items, categories, and orders.",
     "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "GitHub"],
     "demo": "https://cravecorner-frontend.onrender.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "PolicyTrust",
-    "imageSrc": "assets/projects/policytrust.png",
+    "imageSrc": "/assets/projects/policytrust.png",
     "description": "A full-stack policy management system with modules for customer registration, dashboards, and admin tools to manage policies and insurance schemes.",
     "skills": ["Java", "Spring Boot", "Thymeleaf", "Postman", "GitHub"],
     "demo": "https://github.com/praveen-kumar-ketavat/PolicyTrust_project",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Shopping Cart",
-    "imageSrc": "assets/projects/shoppingcart.png",
+    "imageSrc": "/assets/projects/shoppingcart.png",
     "description": "A React-based shopping cart application using DummyJSON API that allows users to add, remove, and manage items efficiently. It features real-time updates, responsive design, seamless shopping experience.",
     "skills": ["React.js", "JavaScript", "CSS", "API", "GitHub"],
     "demo": "https://praveen-kumar-ketavat.github.io/shoppingCart",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Product Page",
-    "imageSrc": "assets/projects/productpage.png",
+    "imageSrc": "/assets/projects/productpage.png",
     "description": "A responsive product page for e-commerce applications, designed with a clean layout to display product details effectively across devices.",
     "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
     "demo": "https://praveen-kumar-ketavat.github.io/Product_Page",
@@ -33,7 +33,7 @@
   },
   {
     "title": "Rock Paper Scissors Game",
-    "imageSrc": "assets/projects/rpsgame.png",
+    "imageSrc": "/assets/projects/rpsgame.png",
     "description": "An interactive Rock Paper Scissors game created using HTML, CSS, and JavaScript, deployed on GitHub Pages for easy access.",
     "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
     "demo": "https://praveen-kumar-ketavat.github.io/Rock_Paper_Scissors_Game",
@@ -41,7 +41,7 @@
   },
   {
     "title": "To-Do List",
-    "imageSrc": "assets/projects/todolist.png",
+    "imageSrc": "/assets/projects/todolist.png",
     "description": "A to-do list app with add, edit, delete, and mark complete features, using local storage for persistent data across sessions.",
     "skills": ["HTML", "CSS", "JavaScript", "Git", "GitHub"],
     "demo": "https://praveen-kumar-ketavat.github.io/ToDo_List",
@@ -49,7 +49,7 @@
   },
   {
     "title": "Network Request Management",
-    "imageSrc": "assets/projects/servicenow.png",
+    "imageSrc": "/assets/projects/servicenow.png",
     "description": "A ServiceNow application for automating network service requests with catalog items, approvals, workflows, and real-time notifications through emails.",
     "skills": ["ServiceNow", "Catalog Items", "Workflows", "Forms", "GitHub"],
     "demo": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects",
@@ -57,7 +57,7 @@
   },
   {
     "title": "Educational Organisation Management",
-    "imageSrc": "assets/projects/servicenow.png",
+    "imageSrc": "/assets/projects/servicenow.png",
     "description": "A ServiceNow solution for managing student and teacher data, admissions, and academic processes with workflow automation and reporting.",
     "skills": ["ServiceNow", "Forms", "Workflows", "Data Management", "GitHub"],
     "demo": "https://github.com/praveen-kumar-ketavat/ServiceNow_Projects",

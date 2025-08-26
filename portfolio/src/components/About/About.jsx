@@ -9,13 +9,12 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="assets/about/aboutImage.png"
+          src="/assets/about/aboutImage.png"
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            {/* <img src="assets/about/cursorIcon.png" alt="Cursor icon" /> */}
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -25,7 +24,6 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            {/* <img src="assets/about/serverIcon.png" alt="Server icon" /> */}
             <div className={styles.aboutItemText}>
               <h3>FullStack Developer</h3>
               <p>
@@ -35,7 +33,6 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            {/* <img src="assets/about/cursorIcon.png" alt="UI icon" /> */}
             <div className={styles.aboutItemText}>
               <h3>ServiceNow Developer</h3>
               <p>
