@@ -60,10 +60,28 @@
     "imageSrc": "/assets/certs/yjp_infosys.png"
   },
   {
+    "name": "Java Foundation Certification",
+    "issuer": "Infosys",
+    "date": "October 30, 2024",
+    "imageSrc": "/assets/certs/java_foundation.png"
+  },
+  {
     "name": "Programming using Java",
     "issuer": "Infosys",
     "date": "August 04, 2024",
     "imageSrc": "/assets/certs/java_infosys.png"
+  },
+  {
+    "name": "Java Programming",
+    "issuer": "Coursera",
+    "date": "October 26, 2023",
+    "imageSrc": "/assets/certs/java_coursera.png"
+  },
+  {
+    "name": "Programming in Java",
+    "issuer": "NPTEL",
+    "date": "2024",
+    "imageSrc": "/assets/certs/java_nptel.png"
   },
   {
     "name": "Data Structures and Algorithms Using Java",
@@ -121,18 +139,36 @@
     "date": "August 10,2024",
     "imageSrc": "/assets/certs/software-agile.png"
   },
-  
   {
-    "name": "HTML5",
+    "name": "High Impact Presentations",
     "issuer": "Infosys",
-    "date": "March 06, 2025",
-    "imageSrc": "/assets/certs/html5.png"
+    "date": "August 10,2024",
+    "imageSrc": "/assets/certs/high-impact.png"
   },
+  {
+    "name": "Time Management",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "/assets/certs/time-management.png"
+  },
+  {
+    "name": "Email Writing Skills",
+    "issuer": "Infosys",
+    "date": "August 04,2024",
+    "imageSrc": "/assets/certs/email-writing.png"
+  },
+
   {
     "name": "CSS3",
     "issuer": "Infosys",
     "date": "March 06, 2025",
     "imageSrc": "/assets/certs/css3.png"
+  },
+  {
+    "name": "HTML5",
+    "issuer": "Infosys",
+    "date": "March 06, 2025",
+    "imageSrc": "/assets/certs/html5.png"
   },
   {
     "name": "JavaScript",
@@ -164,5 +200,54 @@
     "issuer": "Infosys",
     "date": "August 04,2024",
     "imageSrc": "/assets/certs/nosql.png"
+  },
+
+  {
+    "name": "Introduction to Internet of Things",
+    "issuer": "NPTEL",
+    "date": "2025",
+    "imageSrc": "/assets/certs/iot_nptel.png"
+  },
+  {
+    "name": "Ethical Hacking",
+    "issuer": "NPTEL",
+    "date": "2024",
+    "imageSrc": "/assets/certs/ethical_hacking.png"
+  },
+  {
+    "name": "CCNA: Enterprise Networking, Security, and Automation",
+    "issuer": "Cisco Networking Academy",
+    "date": "June 19, 2025",
+    "imageSrc": "/assets/certs/cisco_enterprise.png"
+  },
+  {
+    "name": "CCNA: Switching, Routing, and Wireless Essentials",
+    "issuer": "Cisco Networking Academy",
+    "date": "June 18, 2025",
+    "imageSrc": "/assets/certs/cisco_routing.png"
+  },
+  {
+    "name": "CCNA: Introduction to Networks",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 30, 2025",
+    "imageSrc": "/assets/certs/cisco_networks.png"
+  },
+  {
+    "name": "Introduction to Cybersecurity",
+    "issuer": "Cisco Networking Academy",
+    "date": "May 03, 2025",
+    "imageSrc": "/assets/certs/cisco_cyber.png"
+  },
+  {
+    "name": "AWS Academy Cloud Architecting",
+    "issuer": "AWS Academy",
+    "date": "May 24, 2024",
+    "imageSrc": "/assets/certs/aws_architect.png"
+  },
+  {
+    "name": "AWS Academy Cloud Foundations",
+    "issuer": "AWS Academy",
+    "date": "May 22, 2024",
+    "imageSrc": "/assets/certs/aws_foundations.png"
   }
 ]
